@@ -1,0 +1,8 @@
+file_format: "1"
+id: moGa
+name: moGa
+type: shield
+url: https://github.com/razilyis/zmk-config-moGa
+requires: [seeeduino_xiao_ble]
+features:
+  - keys

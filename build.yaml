@@ -20,6 +20,7 @@
 include:
   - board: seeeduino_xiao_ble
     shield: moGa_R rgbled_adapter
+    snippet: studio-rpc-usb-uart
   - board: seeeduino_xiao_ble
     shield: moGa_L rgbled_adapter
   - board: seeeduino_xiao_ble

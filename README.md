@@ -1,2 +1,2 @@
 # zmk-config-moGa
-moGaファームウェア
+Grid Array 42Keys 17mm low Profile Right Ball
